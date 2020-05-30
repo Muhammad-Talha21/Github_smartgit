@@ -1,2 +1,4 @@
 Add a.txt
 checking in smartgit
+after commmiting in smartgit we push so it will also come onto git hub
+and if from server smartgit will automatically sync the data
